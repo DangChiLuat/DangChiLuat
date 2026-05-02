@@ -21,11 +21,54 @@
 ## 🎮 Character Stats (Skills)
 
 | Attribute | Level / Mastery |
-|----------|----------------|
-| <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white" style="vertical-align: middle;"/> Main Engine | 90% |
-| <img src="https://img.shields.io/badge/Cocos-6A1B9A?style=flat" style="vertical-align: middle;"/> Web Engine | 85% |
-| <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" style="vertical-align: middle;"/> Art / Modeling | 30% |
-| <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" style="vertical-align: middle;"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="vertical-align: middle;"/> Logic | Expert |
+<table>
+  <tr>
+    <th>Attribute</th>
+    <th>Level / Mastery</th>
+  </tr>
+
+  <tr>
+    <td>
+      <span style="display:inline-flex; align-items:center; gap:6px;">
+        <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white"/>
+        Main Engine
+      </span>
+    </td>
+    <td>90%</td>
+  </tr>
+
+  <tr>
+    <td>
+      <span style="display:inline-flex; align-items:center; gap:6px;">
+        <img src="https://img.shields.io/badge/Cocos-6A1B9A?style=flat"/>
+        Web Engine
+      </span>
+    </td>
+    <td>85%</td>
+  </tr>
+
+  <tr>
+    <td>
+      <span style="display:inline-flex; align-items:center; gap:6px;">
+        <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
+        Art / Modeling
+      </span>
+    </td>
+    <td>30%</td>
+  </tr>
+
+  <tr>
+    <td>
+      <span style="display:inline-flex; align-items:center; gap:6px;">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        Logic
+      </span>
+    </td>
+    <td>Expert</td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack Inventory
 
 <p>

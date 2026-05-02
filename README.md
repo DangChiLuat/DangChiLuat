@@ -39,9 +39,9 @@
 
 ---
 
-## 📊 GitHub contribute
+## 📊 GitHub contributions
 
-![snake gif](https://github.com/DangChiLuat/DangChiLuat/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DangChiLuat/DangChiLuat/blob/output/github-snake.svg)
 ---
 
 ## 🔥 Quote

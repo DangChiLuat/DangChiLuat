@@ -35,17 +35,11 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Cocos-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 

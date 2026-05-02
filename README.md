@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Game Developer from Vietnam VN</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Game_Developer-333?style=for-the-badge"/>
-  <img src="[https://img.shields.io/badge/LEVEL-Tech_Lead_in_Progress-orange?style=for-the-badge](https://camo.githubusercontent.com/26be32ae6b868acd18a7331fa7409afcdd6149ea36b99e293412c8f499cb1692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6576656c2d546563682532304c656164253230496e25323050726f67726573732d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d7374617273686970266c6f676f436f6c6f723d7768697465)"/>
+  <img src="https://img.shields.io/badge/ROLE-Game_Developer-333?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEVEL-Tech_Lead_in_Progress-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎯 **Current Focus:**My goal is to become a Middle Unity Developer, with a focus on building scalable gameplay systems and delivering high-quality game features.
+- 🎯 **Current Focus:** My goal is to become a Middle Unity Developer, with a focus on building scalable gameplay systems and delivering high-quality game features.
 - 🚀 **Goal:** Middle Unity Dev / Game Architect (within 1–2 years)  
 - 🌐 **Portfolio:**
 - 📫 **Contact:** dangluat02@gmail.com

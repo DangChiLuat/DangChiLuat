@@ -1,4 +1,4 @@
-# 🌃 [Your name] - Welcome to Vice City Code
+# 🌃 DANG CHI LUAT
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+[Your name]'s+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />

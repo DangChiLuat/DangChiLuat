@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-Game_Developer-333?style=for-the-badge&logo=unity&logoColor=white"/>
-[  <img src="https://img.shields.io/badge/LEVEL-Tech_Lead_in_Progress-orange?style=for-the-badge&logo=github&logoColor=white"/>](https://img.shields.io/badge/LEVEL-Middle_in_Progress-orange?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://img.shields.io/badge/LEVEL-Middle_in_Progress-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---

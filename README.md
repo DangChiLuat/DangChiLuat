@@ -13,7 +13,7 @@
 
 - 🎯 **Current Focus:** My goal is to become a Middle Unity Developer, with a focus on building scalable gameplay systems and delivering high-quality game features.
 - 🚀 **Goal:** Middle Unity Dev / Game Architect (within 1–2 years)  
-- 🌐 **Portfolio:** 
+- 🌐 **Portfolio:** https://dangchiluat.github.io/profile/
 - 📫 **Contact:** dangluat02@gmail.com
 
 ---
